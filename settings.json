@@ -13,4 +13,5 @@
     "html.autoClosingTags": false,
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true,
+    "editor.rulers": [80,120],
 }
