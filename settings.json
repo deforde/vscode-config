@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "extensions.ignoreRecommendations": true,
+    "editor.renderWhitespace": "all",
+    "git.openRepositoryInParentFolders": "never",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingOvertype": "never",
+    "html.autoCreateQuotes": false,
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.autoSurround": "never",
+    "html.autoClosingTags": false,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+}
