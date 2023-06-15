@@ -17,11 +17,11 @@
     "zenMode.centerLayout": false,
     "vim.normalModeKeyBindings": [
         {
-            "before": ["<C-h>"],
+            "before": ["<C-l>"],
             "after": ["<C-w>", "<Right>"],
         },
         {
-            "before": ["<C-l>"],
+            "before": ["<C-h>"],
             "after": ["<C-w>", "<Left>"],
         },
         {
