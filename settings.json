@@ -17,19 +17,19 @@
     "zenMode.centerLayout": false,
     "vim.normalModeKeyBindings": [
         {
-            "before": ["<C-Right>"],
+            "before": ["<C-h>"],
             "after": ["<C-w>", "<Right>"],
         },
         {
-            "before": ["<C-Left>"],
+            "before": ["<C-l>"],
             "after": ["<C-w>", "<Left>"],
         },
         {
-            "before": ["<C-Up>"],
+            "before": ["<C-k>"],
             "after": ["<C-w>", "<Up>"],
         },
         {
-            "before": ["<C-Down>"],
+            "before": ["<C-j>"],
             "after": ["<C-w>", "<Down>"],
         },
     ],
