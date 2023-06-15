@@ -15,4 +15,22 @@
     "python.linting.pylintEnabled": true,
     "editor.rulers": [80,120],
     "zenMode.centerLayout": false,
+    "vim.normalModeKeyBindings": [
+        {
+            "before": ["<C-Right>"],
+            "after": ["<C-w>", "<Right>"],
+        },
+        {
+            "before": ["<C-Left>"],
+            "after": ["<C-w>", "<Left>"],
+        },
+        {
+            "before": ["<C-Up>"],
+            "after": ["<C-w>", "<Up>"],
+        },
+        {
+            "before": ["<C-Down>"],
+            "after": ["<C-w>", "<Down>"],
+        },
+    ],
 }

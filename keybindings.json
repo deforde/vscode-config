@@ -3,4 +3,9 @@
         "key": "ctrl+enter",
         "command": "workbench.action.toggleZenMode"
     },
+    {
+        "key": "shift+;",
+        "command": "vim.showQuickpickCmdLine",
+        "when": "inZenMode && vim.mode != 'Insert'"
+    },
 ]
