@@ -33,4 +33,8 @@
             "after": ["<C-w>", "<Down>"],
         },
     ],
+    "vim.handleKeys": {
+        "<C-b>": false,
+    },
+    "workbench.startupEditor": "none",
 }
