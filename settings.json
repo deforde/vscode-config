@@ -33,4 +33,5 @@
             "after": ["<C-w>", "<Down>"],
         },
     ],
+    "editor.minimap.enabled": false,
 }
