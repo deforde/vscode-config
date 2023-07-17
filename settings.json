@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "Default Dark Modern",
     "extensions.ignoreRecommendations": true,
     "editor.renderWhitespace": "all",
     "git.openRepositoryInParentFolders": "never",
@@ -37,4 +36,5 @@
         "<C-b>": false,
     },
     "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Visual Studio Dark",
 }
