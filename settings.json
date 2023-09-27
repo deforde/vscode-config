@@ -34,7 +34,9 @@
     ],
     "vim.handleKeys": {
         "<C-b>": false,
+        "<C-p>": false,
     },
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "Visual Studio Dark",
+    "redhat.telemetry.enabled": false,
+    "update.showReleaseNotes": false,
 }
